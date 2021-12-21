@@ -1,0 +1,3 @@
+E:/rustprograme/untitled2/cmake-build-debug-mingw/CMakeFiles/untitled2.dir
+E:/rustprograme/untitled2/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+E:/rustprograme/untitled2/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
